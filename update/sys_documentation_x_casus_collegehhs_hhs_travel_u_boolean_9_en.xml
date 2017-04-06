@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_boolean_9" label="Materials (Books, Equipments, etc.)" language="en" table="x_casus_collegehhs_hhs_travel">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_boolean_9</element>
+            <help/>
+            <hint/>
+            <label>Materials (Books, Equipments, etc.)</label>
+            <language>en</language>
+            <name>x_casus_collegehhs_hhs_travel</name>
+            <plural>Materials (Books, Equipments, etc.)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anaida.stepanyan</sys_created_by>
+            <sys_created_on>2017-02-02 17:34:52</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c041cd8c6fbcfa00ad6cd4a21c3ee4d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Materials (Books, Equipments, etc.)</sys_name>
+            <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
+            <sys_update_name>sys_documentation_x_casus_collegehhs_hhs_travel_u_boolean_9_en</sys_update_name>
+            <sys_updated_by>anaida.stepanyan</sys_updated_by>
+            <sys_updated_on>2017-02-02 17:34:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

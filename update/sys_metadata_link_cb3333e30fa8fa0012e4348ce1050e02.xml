@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c2b2cbad0f90360012e4348ce1050e3f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_casus_collegehhs_hhs_travel">
+    <x_casus_collegehhs_hhs_travel action="INSERT_OR_UPDATE">
+        <actual_spent_amount/>
+        <additional_comment/>
+        <archived>false</archived>
+        <awarded_amount>500</awarded_amount>
+        <block_break_1/>
+        <block_break_2/>
+        <date_emailed/>
+        <dean_sign>true</dean_sign>
+        <del_1>false</del_1>
+        <del_2>false</del_2>
+        <del_3>false</del_3>
+        <denied>false</denied>
+        <department display_value="Speech Pathology &amp; Audiology">79600a660a0a3c9e01b789a53f534bee</department>
+        <dept_id>27900</dept_id>
+        <destination>Site Visits</destination>
+        <email_asc>true</email_asc>
+        <fund_1>TECCE/90800 4113A</fund_1>
+        <fund_2/>
+        <fund_3/>
+        <fund_4/>
+        <fund_amount_1>500</fund_amount_1>
+        <fund_amount_2>0</fund_amount_2>
+        <fund_amount_3>0</fund_amount_3>
+        <fund_amount_4>0</fund_amount_4>
+        <fund_spec_1/>
+        <fund_spec_2/>
+        <fund_spec_3/>
+        <fund_spec_4/>
+        <itej_form>false</itej_form>
+        <leave_date>2016-06-01</leave_date>
+        <mailed_1>true</mailed_1>
+        <mailed_2>true</mailed_2>
+        <mailed_3>false</mailed_3>
+        <number>HHS0001242</number>
+        <org_tej_asc>2017-01-17 17:30:25</org_tej_asc>
+        <provost_sign>true</provost_sign>
+        <rec_prov_sign>2017-01-11 19:48:27</rec_prov_sign>
+        <remaining_amount>500</remaining_amount>
+        <return_date>2017-06-30</return_date>
+        <sdrive>false</sdrive>
+        <submitted_by display_value="David Gleason">81358ef40a0a3c9e0153f4296b446f5c</submitted_by>
+        <submitted_date/>
+        <sys_created_by>raquel.dagnino</sys_created_by>
+        <sys_created_on>2017-01-13 22:23:40</sys_created_on>
+        <sys_id>c2b2cbad0f90360012e4348ce1050e3f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>raquel.dagnino</sys_updated_by>
+        <sys_updated_on>2017-01-13 23:25:15</sys_updated_on>
+        <tec>false</tec>
+        <tec_acc_pay/>
+        <tej_form>true</tej_form>
+        <travel_deliver_method>electronic</travel_deliver_method>
+        <traveler_name display_value="Robert Pieretti">81358ed50a0a3c9e017c943b442a4cc6</traveler_name>
+        <worknotes/>
+    </x_casus_collegehhs_hhs_travel>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>nicholasmyers</sys_created_by>
+        <sys_created_on>2017-02-01 17:15:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cb3333e30fa8fa0012e4348ce1050e02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HHS0001242</sys_name>
+        <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
+        <sys_update_name>sys_metadata_link_cb3333e30fa8fa0012e4348ce1050e02</sys_update_name>
+        <sys_updated_by>nicholasmyers</sys_updated_by>
+        <sys_updated_on>2017-02-01 17:15:32</sys_updated_on>
+        <tablename>x_casus_collegehhs_hhs_travel</tablename>
+    </sys_metadata_link>
+</record_update>

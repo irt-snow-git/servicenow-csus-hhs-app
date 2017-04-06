@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="HHS Travel" max_length="40" name="x_casus_collegehhs_hhs_travel" type="collection">
+        <element label="Actual spent amount" max_length="40" name="actual_spent_amount" type="decimal"/>
+        <element label="Comments (Visible by All)" max_length="4000" name="additional_comment" type="journal_input"/>
+        <element label="Archived" max_length="40" name="archived" type="boolean"/>
+        <element default="0.00" label="Awarded amount" max_length="40" name="awarded_amount" read_only="true" type="decimal"/>
+        <element label="Block break 1" max_length="40" name="block_break_1" type="string"/>
+        <element label="Block break 2" max_length="40" name="block_break_2" type="string"/>
+        <element label="Date " max_length="40" name="date_emailed" type="glide_date"/>
+        <element label="Dean Signature" max_length="40" name="dean_sign" type="boolean"/>
+        <element label="Delivered" max_length="40" name="del_1" type="boolean"/>
+        <element label="Delivered" max_length="40" name="del_2" type="boolean"/>
+        <element label="Delivered" max_length="40" name="del_3" type="boolean"/>
+        <element label="Faculty Assignment Sheet" max_length="40" name="denied" type="boolean"/>
+        <element label="Department" max_length="40" name="department" reference="cmn_department" type="reference"/>
+        <element label="Dept ID" max_length="40" name="dept_id" type="string"/>
+        <element label="Via" max_length="40" name="destination" type="string"/>
+        <element label="Emailed to ASC" max_length="40" name="email_asc" type="boolean"/>
+        <element label="Fund" max_length="40" name="fund_1" type="string"/>
+        <element label="Fund" max_length="40" name="fund_2" type="string"/>
+        <element label="Fund" max_length="40" name="fund_3" type="string"/>
+        <element label="Fund" max_length="40" name="fund_4" type="string"/>
+        <element default="0" label="Amount" max_length="40" name="fund_amount_1" type="decimal"/>
+        <element default="0" label="Amount" max_length="40" name="fund_amount_2" type="decimal"/>
+        <element attributes="scale=4" default="0" label="Amount" max_length="15" name="fund_amount_3" type="decimal"/>
+        <element default="0" label="Amount" max_length="40" name="fund_amount_4" type="decimal"/>
+        <element label="Specifications" max_length="40" name="fund_spec_1" type="string"/>
+        <element label="Specifications" max_length="40" name="fund_spec_2" type="string"/>
+        <element label="Specifications" max_length="40" name="fund_spec_3" type="string"/>
+        <element label="Specifications" max_length="40" name="fund_spec_4" type="string"/>
+        <element label="(ITEJ) International Travel Expense Justification" max_length="40" name="itej_form" type="boolean"/>
+        <element label="Leave date" max_length="40" name="leave_date" type="glide_date"/>
+        <element label="Mailed" max_length="40" name="mailed_1" type="boolean"/>
+        <element label="Mailed" max_length="40" name="mailed_2" type="boolean"/>
+        <element label="Mailed" max_length="40" name="mailed_3" type="boolean"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Original (I) TEJ to ASC" max_length="40" name="org_tej_asc" type="glide_date_time"/>
+        <element label="To Provost for signature" max_length="40" name="provost_sign" type="boolean"/>
+        <element label="Received with Provost signature" max_length="40" name="rec_prov_sign" type="glide_date_time"/>
+        <element default="0.00" label="Remaining amount" max_length="40" name="remaining_amount" read_only="true" type="decimal"/>
+        <element label="Return date" max_length="40" name="return_date" type="glide_date"/>
+        <element label="CHHS S Drive" max_length="40" name="sdrive" type="boolean"/>
+        <element label="Submitted By" max_length="32" name="submitted_by" reference="sys_user" reference_qual="active=true^u_faculty=true^ORu_staff=true^ORu_poi=true^EQ" reference_qual_condition="active=true^u_faculty=true^ORu_staff=true^ORu_poi=true^EQ" type="reference"/>
+        <element label="Submitted Date" max_length="40" name="submitted_date" type="glide_date_time"/>
+        <element label="(TEC) Travel Expense Claim" max_length="40" name="tec" type="boolean"/>
+        <element label="TEC Accounts Payable" max_length="40" name="tec_acc_pay" type="glide_date_time"/>
+        <element label="(TEJ) Travel Expense Justification Form" max_length="40" name="tej_form" type="boolean"/>
+        <element label="Received From" max_length="32" name="traveler_name" reference="sys_user" reference_qual="active=true^u_staff=true^ORu_faculty=true^ORu_poi=true^EQ" reference_qual_condition="active=true^u_staff=true^ORu_faculty=true^ORu_poi=true^EQ" type="reference"/>
+        <element choice="1" label="Check Request" max_length="40" name="travel_deliver_method" type="choice">
+            <choice>
+                <element label="Campus mail" value="campus_mail"/>
+                <element label="Electronic" value="electronic"/>
+                <element label="Hand delivered" value="hand_delivered"/>
+            </choice>
+        </element>
+        <element label="Denied" max_length="40" name="u_boolean_1" type="boolean"/>
+        <element label="Hire Student Assistant" max_length="40" name="u_boolean_10" type="boolean"/>
+        <element label="Delivered" max_length="40" name="u_boolean_11" type="boolean"/>
+        <element label="Delivered" max_length="40" name="u_boolean_12" type="boolean"/>
+        <element label="Electronically sent" max_length="40" name="u_boolean_13" type="boolean"/>
+        <element label="Proposal Approval Form" max_length="40" name="u_boolean_14" type="boolean"/>
+        <element label="Add/Drop Petition" max_length="40" name="u_boolean_15" type="boolean"/>
+        <element label="Unfunded Travel" max_length="40" name="u_boolean_16" type="boolean"/>
+        <element label="Other" max_length="40" name="u_boolean_17" type="boolean"/>
+        <element label="Check Request " max_length="40" name="u_boolean_19" type="boolean"/>
+        <element label="Mailed" max_length="40" name="u_boolean_2" type="boolean"/>
+        <element label="Add Form" max_length="40" name="u_boolean_21" type="boolean"/>
+        <element label="Drop Form" max_length="40" name="u_boolean_22" type="boolean"/>
+        <element label="Excess Units Form" max_length="40" name="u_boolean_23" type="boolean"/>
+        <element label="Dean Signature" max_length="40" name="u_boolean_26" type="boolean"/>
+        <element label="To Provost for signature" max_length="40" name="u_boolean_27" type="boolean"/>
+        <element label="Mailed" max_length="40" name="u_boolean_28" type="boolean"/>
+        <element label="Archived" max_length="40" name="u_boolean_29" type="boolean"/>
+        <element label="Fee Waiver Form" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element label="Delivered" max_length="40" name="u_boolean_30" type="boolean"/>
+        <element label="CHHS S Drive" max_length="40" name="u_boolean_31" type="boolean"/>
+        <element label="Emailed to ASC" max_length="40" name="u_boolean_33" type="boolean"/>
+        <element label="Campus Mail" max_length="40" name="u_boolean_34" type="boolean"/>
+        <element label="Mailed" max_length="40" name="u_boolean_35" type="boolean"/>
+        <element label="Delivered" max_length="40" name="u_boolean_36" type="boolean"/>
+        <element label="Mailed" max_length="40" name="u_boolean_38" type="boolean"/>
+        <element label="Delivered" max_length="40" name="u_boolean_39" type="boolean"/>
+        <element label="Personnel Transaction Form (PTF)" max_length="40" name="u_boolean_4" type="boolean"/>
+        <element label="Conference Presentation" max_length="40" name="u_boolean_5" type="boolean"/>
+        <element label="Picked up " max_length="40" name="u_boolean_50" type="boolean"/>
+        <element label="Mailed " max_length="40" name="u_boolean_51" type="boolean"/>
+        <element label="File Copy Email " max_length="40" name="u_boolean_52" type="boolean"/>
+        <element label="Scanned &amp; Archived for CHHS" max_length="40" name="u_boolean_53" type="boolean"/>
+        <element label="Conference Attendance" max_length="40" name="u_boolean_6" type="boolean"/>
+        <element label="Chairing Session at Conference" max_length="40" name="u_boolean_7" type="boolean"/>
+        <element label="Professional Development Activity" max_length="40" name="u_boolean_8" type="boolean"/>
+        <element label="Materials (Books, Equipments, etc.)" max_length="40" name="u_boolean_9" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Choice 1" dependent="u_boolean_34" dependent_on_field="u_boolean_34" label="Request delivery method" max_length="40" name="u_choice_1" read_only="true" type="string" use_dependent_field="true">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request delivery method" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_string_54" dependent_on_field="u_string_54" label="Request delivery method" max_length="40" name="u_choice_4" type="string" use_dependent_field="true">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Delivered" max_length="40" name="u_choice_5" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_60" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Emailed" max_length="40" name="u_choice_9" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_63" type="data_structure"/>
+        <element label="New Floating Point Number" max_length="40" name="u_float_64" type="float"/>
+        <element label="Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element label="Date" max_length="40" name="u_glide_date_14" type="glide_date"/>
+        <element label="Leave date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element label="Return date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element label="Date Collected " max_length="40" name="u_glide_date_32" type="glide_date"/>
+        <element label="Date Emailed" max_length="40" name="u_glide_date_37" type="glide_date"/>
+        <element label="Original (I) TEJ to ASC" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element label="TEC Reveived" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element label="TEC Accounts Payable" max_length="40" name="u_glide_date_7" type="glide_date"/>
+        <element label="Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element label="Mailed Date/Time" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element label="Date/Time Dropped off" max_length="40" name="u_glide_date_time_29" type="glide_date_time"/>
+        <element label="Delivered Date/Time" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element label="Received with Provost signature" max_length="40" name="u_glide_date_time_32" type="glide_date_time"/>
+        <element label="Original (I) TEJ to ASC" max_length="40" name="u_glide_date_time_34" type="glide_date_time"/>
+        <element label="TEC Accounts Payable" max_length="40" name="u_glide_date_time_36" type="glide_date_time"/>
+        <element label="Date/Time" max_length="40" name="u_glide_date_time_38" type="glide_date_time"/>
+        <element label="Date/Time" max_length="40" name="u_glide_date_time_48" type="glide_date_time"/>
+        <element label="Date/Time" max_length="40" name="u_glide_date_time_55" type="glide_date_time"/>
+        <element label="Submitted Date" max_length="40" name="u_glide_date_time_7" type="glide_date_time"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_62" type="glide_list"/>
+        <element label="Awarded amount" max_length="40" name="u_integer_23" type="integer"/>
+        <element label="Actaul spent amount" max_length="40" name="u_integer_24" type="integer"/>
+        <element label="Remaining amount" max_length="40" name="u_integer_25" type="integer"/>
+        <element label="Dept ID" max_length="40" name="u_integer_5" type="integer"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Amount" max_length="15" name="u_price_19" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Amount" max_length="15" name="u_price_20" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Amount" max_length="15" name="u_price_21" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" default="0" label="Amount" max_length="15" name="u_price_22" type="price"/>
+        <element label="Student's Name" max_length="32" name="u_reference_24" reference="x_casus_collegehhs_hhs_travel" type="reference"/>
+        <element label="Major" max_length="32" name="u_reference_25" reference="x_casus_collegehhs_hhs_travel" type="reference"/>
+        <element label="Department" max_length="32" name="u_reference_26" reference="cmn_department" type="reference"/>
+        <element label="Routed to" max_length="32" name="u_reference_37" reference="x_casus_collegehhs_hhs_travel" type="reference"/>
+        <element label="Department" max_length="32" name="u_reference_4" reference="cmn_department" type="reference"/>
+        <element label="Person Contacted" max_length="32" name="u_reference_40" reference="x_casus_collegehhs_hhs_travel" type="reference"/>
+        <element label="Traveler Name" max_length="32" name="u_reference_5" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Submitted By" max_length="32" name="u_reference_6" reference="x_casus_collegehhs_hhs_travel" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Destination" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Specifications" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Specifications" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fund" max_length="40" name="u_string_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Specifications" max_length="40" name="u_string_13" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fund" max_length="40" name="u_string_14" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Specifications" max_length="40" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RE: " max_length="40" name="u_string_20" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Class Number" max_length="40" name="u_string_27" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number of Units" max_length="40" name="u_string_28" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Collected by" max_length="40" name="u_string_33" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial" max_length="40" name="u_string_39" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="u_string_41" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Major" max_length="40" name="u_string_42" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student's Name" max_length="40" name="u_string_43" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Received From" max_length="40" name="u_string_44" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Routed to" max_length="40" name="u_string_45" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Person Contacted" max_length="40" name="u_string_46" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="u_string_47" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial" max_length="40" name="u_string_49" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="String 54" max_length="40" name="u_string_54" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Initial" max_length="40" name="u_string_56" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Picked up by" max_length="40" name="u_string_57" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mailed to" max_length="40" name="u_string_58" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="File Copy Email to" max_length="40" name="u_string_59" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Person of concern" max_length="40" name="u_string_61" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fund" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fund" max_length="40" name="u_string_9" type="string"/>
+        <element label="Worknotes (Internal)" max_length="4000" name="worknotes" type="journal_input"/>
+        <index name="index">
+            <element name="u_reference_4"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_5"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_40"/>
+        </index>
+        <index name="index4">
+            <element name="traveler_name"/>
+        </index>
+        <index name="index5">
+            <element name="u_reference_24"/>
+        </index>
+        <index name="index6">
+            <element name="submitted_by"/>
+        </index>
+        <index name="index7">
+            <element name="u_reference_25"/>
+        </index>
+        <index name="index8">
+            <element name="u_reference_26"/>
+        </index>
+        <index name="index9">
+            <element name="u_reference_37"/>
+        </index>
+        <index name="index10">
+            <element name="u_reference_6"/>
+        </index>
+    </element>
+</database>

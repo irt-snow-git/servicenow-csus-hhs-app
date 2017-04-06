@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <element>additional_comment</element>
+        <name>x_casus_collegehhs_hhs_travel</name>
+        <style>background-color: lightgreen</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>longlim</sys_created_by>
+        <sys_created_on>2016-08-09 20:25:02</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2a864acb2b4de6409ecc78cef6da1585</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_casus_collegehhs_hhs_travel</sys_name>
+        <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
+        <sys_update_name>sys_ui_style_2a864acb2b4de6409ecc78cef6da1585</sys_update_name>
+        <sys_updated_by>longlim</sys_updated_by>
+        <sys_updated_on>2016-08-09 20:25:44</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+</record_update>

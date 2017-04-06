@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_filter">
+    <sys_filter action="INSERT_OR_UPDATE">
+        <filter table="sys_user">nameSTARTSWITHmaria ira^nameISNOTEMPTY^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="maria ira"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <group/>
+        <last_used>2016-08-04 16:54:54</last_used>
+        <mobile>true</mobile>
+        <roles/>
+        <sys_class_name>sys_filter</sys_class_name>
+        <sys_created_by>anaida.stepanyan</sys_created_by>
+        <sys_created_on>2016-08-04 16:54:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>48c6e75d0f05ea0012e4348ce1050ebc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile</sys_name>
+        <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
+        <sys_update_name>sys_filter_48c6e75d0f05ea0012e4348ce1050ebc</sys_update_name>
+        <sys_updated_by>anaida.stepanyan</sys_updated_by>
+        <sys_updated_on>2016-08-04 16:54:54</sys_updated_on>
+        <table>sys_user</table>
+        <title>mobile</title>
+        <user display_value="Anaida Stepanyan">7554be180f578e40bcab563be1050e42</user>
+    </sys_filter>
+</record_update>

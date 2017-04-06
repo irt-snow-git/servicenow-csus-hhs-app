@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Updates total sum of fund 1-4 amounts and puts the sum into the "Awarded Amount".</description>
+        <field>fund_amount_2</field>
+        <global>true</global>
+        <messages/>
+        <name>update_awarded_amount_2</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	//Get the amount values from each fund field
+	var f1 = parseFloat(g_form.getDecimalValue("fund_amount_1"));
+	var f2 = parseFloat(g_form.getDecimalValue("fund_amount_2"));
+	var f3 = parseFloat(g_form.getDecimalValue("fund_amount_3"));
+	var f4 = parseFloat(g_form.getDecimalValue("fund_amount_4"));
+	
+	var sum = f1 + f2 + f3 + f4;
+	
+	sum = sum.toFixed(2);
+	
+	//Converts input to string, adds comma delimiters for apperance (complicated, but works)
+	sum = (sum + "").replace(/\b(\d+)((\.\d+)*)\b/g, function(a, b, c) {
+	return (b.charAt(0) > 0 && !(c || ".").lastIndexOf(".") ? b.replace(/(\d)(?=(\d{3})+$)/g, "$1,") : b) + c;
+	  });
+
+   g_form.setValue("awarded_amount", sum, sum);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>gg622</sys_created_by>
+        <sys_created_on>2016-12-09 22:11:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>6901361a0fa72e0012e4348ce1050e59</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>update_awarded_amount_2</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
+        <sys_update_name>sys_script_client_6901361a0fa72e0012e4348ce1050e59</sys_update_name>
+        <sys_updated_by>gg622</sys_updated_by>
+        <sys_updated_on>2016-12-16 21:27:41</sys_updated_on>
+        <table>x_casus_collegehhs_hhs_travel</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
