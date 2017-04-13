@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>longlim</sys_created_by>
         <sys_created_on>2016-09-02 16:12:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e413b0762bede2009ecc78cef6da158b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Long Lim: 2016-09-02 09:12:08</sys_name>

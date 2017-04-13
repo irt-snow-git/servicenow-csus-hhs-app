@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>anaida.stepanyan</sys_created_by>
             <sys_created_on>2016-08-04 17:14:30</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>cf3ba7dd0f05ea0012e4348ce1050ebf</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>(TEC) Travel Expense Claim</sys_name>

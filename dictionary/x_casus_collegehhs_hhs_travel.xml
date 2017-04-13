@@ -61,5 +61,8 @@
         <index name="index2">
             <element name="submitted_by"/>
         </index>
+        <index name="index3">
+            <element name="department"/>
+        </index>
     </element>
 </database>

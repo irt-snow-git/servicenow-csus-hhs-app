@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>gg622</sys_created_by>
         <sys_created_on>2016-12-01 19:18:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2b8cbc3f6f572a00ad6cd4a21c3ee4b0</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>add_additional_funds_button</sys_name>

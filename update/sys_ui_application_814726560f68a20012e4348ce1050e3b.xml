@@ -9,7 +9,7 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>anaida.stepanyan</sys_created_by>
         <sys_created_on>2016-07-13 18:20:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>814726560f68a20012e4348ce1050e3b</sys_id>
         <sys_mod_count>1</sys_mod_count>

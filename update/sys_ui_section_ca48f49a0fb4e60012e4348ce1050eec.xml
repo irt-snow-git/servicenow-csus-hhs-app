@@ -93,7 +93,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>anaida.stepanyan</sys_created_by>
             <sys_created_on>2016-07-25 20:30:52</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>ca48f49a0fb4e60012e4348ce1050eec</sys_id>
             <sys_mod_count>3</sys_mod_count>

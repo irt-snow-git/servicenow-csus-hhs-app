@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>gg622</sys_created_by>
             <sys_created_on>2016-12-02 18:17:40</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>ea78354c0f676a0012e4348ce1050e0c</sys_id>
             <sys_mod_count>4</sys_mod_count>
             <sys_name>Date Emailed</sys_name>

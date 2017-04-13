@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>anaida.stepanyan</sys_created_by>
         <sys_created_on>2016-07-13 18:20:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2d47ead60f68a20012e4348ce1050e9e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>HHS</sys_name>
