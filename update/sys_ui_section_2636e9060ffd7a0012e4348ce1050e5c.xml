@@ -2,58 +2,58 @@
 <record_update>
     <sys_ui_section caption="ASC" section_id="2636e9060ffd7a0012e4348ce1050e5c" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_33</element>
+            <element>email_asc</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:09</sys_created_on>
-            <sys_id>3b36e9060ffd7a0012e4348ce1050ea8</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>b8ad5de66f8efe00ad6cd4a21c3ee4cf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="ASC" display_value="ASC" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">2636e9060ffd7a0012e4348ce1050e5c</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:09</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:09</sys_created_on>
-            <sys_id>bb36e9060ffd7a0012e4348ce1050ea8</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>f0ad5de66f8efe00ad6cd4a21c3ee4dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="ASC" display_value="ASC" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">2636e9060ffd7a0012e4348ce1050e5c</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:09</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_time_34</element>
+            <element>org_tej_asc</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:09</sys_created_on>
-            <sys_id>3f36e9060ffd7a0012e4348ce1050ea8</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>74ad5de66f8efe00ad6cd4a21c3ee4dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="ASC" display_value="ASC" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">2636e9060ffd7a0012e4348ce1050e5c</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:09</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_35</element>
+            <element>mailed_2</element>
             <position>3</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:09</sys_created_on>
-            <sys_id>bf36e9060ffd7a0012e4348ce1050ea8</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>f4ad5de66f8efe00ad6cd4a21c3ee4dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="ASC" display_value="ASC" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">2636e9060ffd7a0012e4348ce1050e5c</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:09</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

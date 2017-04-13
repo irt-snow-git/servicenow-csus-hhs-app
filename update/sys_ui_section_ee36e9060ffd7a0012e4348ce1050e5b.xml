@@ -2,100 +2,100 @@
 <record_update>
     <sys_ui_section caption="Provost" section_id="ee36e9060ffd7a0012e4348ce1050e5b" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_27</element>
+            <element>provost_sign</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>3736e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>28ad5de66f8efe00ad6cd4a21c3ee4cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_time_32</element>
+            <element>rec_prov_sign</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>b736e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>a8ad5de66f8efe00ad6cd4a21c3ee4cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>3b36e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>2cad5de66f8efe00ad6cd4a21c3ee4cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_28</element>
+            <element>mailed_1</element>
             <position>3</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>bb36e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>acad5de66f8efe00ad6cd4a21c3ee4cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_30</element>
+            <element>del_1</element>
             <position>4</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>3f36e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>20ad5de66f8efe00ad6cd4a21c3ee4ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_31</element>
+            <element>sdrive</element>
             <position>5</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>bf36e9060ffd7a0012e4348ce1050e8b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>a0ad5de66f8efe00ad6cd4a21c3ee4ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_29</element>
+            <element>archived</element>
             <position>6</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:08</sys_created_on>
-            <sys_id>3336e9060ffd7a0012e4348ce1050e8c</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>24ad5de66f8efe00ad6cd4a21c3ee4ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Provost" display_value="Provost" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ee36e9060ffd7a0012e4348ce1050e5b</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:08</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

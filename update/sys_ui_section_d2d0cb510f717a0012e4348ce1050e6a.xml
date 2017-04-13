@@ -2,128 +2,128 @@
 <record_update>
     <sys_ui_section caption="Additional Information" section_id="d2d0cb510f717a0012e4348ce1050e6a" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reference_5</element>
+            <element>traveler_name</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>fb64e1060ffd7a0012e4348ce1050e07</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>526e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_1</element>
+            <element>destination</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>7f64e1060ffd7a0012e4348ce1050e07</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>d26e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_2</element>
+            <element>leave_date</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>ff64e1060ffd7a0012e4348ce1050e07</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>566e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_3</element>
+            <element>return_date</element>
             <position>3</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>7364e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>d66e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>4</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>f364e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>5a6e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reference_4</element>
+            <element>department</element>
             <position>5</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>7764e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>da6e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_5</element>
+            <element>dept_id</element>
             <position>6</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>f764e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>5e6e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_reference_6</element>
+            <element>submitted_by</element>
             <position>7</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>7b64e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>de6e952a6f8efe00ad6cd4a21c3ee422</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_time_7</element>
+            <element>submitted_date</element>
             <position>8</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:19:14</sys_created_on>
-            <sys_id>fb64e1060ffd7a0012e4348ce1050e08</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
+            <sys_id>526e952a6f8efe00ad6cd4a21c3ee423</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">d2d0cb510f717a0012e4348ce1050e6a</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:19:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

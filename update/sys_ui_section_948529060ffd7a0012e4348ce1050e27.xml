@@ -2,16 +2,16 @@
 <record_update>
     <sys_ui_section caption="Dean" section_id="948529060ffd7a0012e4348ce1050e27" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_26</element>
+            <element>dean_sign</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:27:07</sys_created_on>
-            <sys_id>5736e9060ffd7a0012e4348ce1050e82</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>ecad5de66f8efe00ad6cd4a21c3ee4cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Dean" display_value="Dean" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">948529060ffd7a0012e4348ce1050e27</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:27:07</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

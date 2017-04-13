@@ -2,72 +2,72 @@
 <record_update>
     <sys_ui_section caption="Accounts Payable" section_id="5f766d060ffd7a0012e4348ce1050e02" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_time_36</element>
+            <element>tec_acc_pay</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:28:14</sys_created_on>
-            <sys_id>3b766d060ffd7a0012e4348ce1050e0b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:27:47</sys_created_on>
+            <sys_id>7eeedda66f8efe00ad6cd4a21c3ee4c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Accounts Payable" display_value="Accounts Payable" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">5f766d060ffd7a0012e4348ce1050e02</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:28:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:27:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_37</element>
+            <element>date_emailed</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:28:14</sys_created_on>
-            <sys_id>bb766d060ffd7a0012e4348ce1050e0b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:27:47</sys_created_on>
+            <sys_id>feeedda66f8efe00ad6cd4a21c3ee4c2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Accounts Payable" display_value="Accounts Payable" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">5f766d060ffd7a0012e4348ce1050e02</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:28:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:27:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:28:14</sys_created_on>
-            <sys_id>3f766d060ffd7a0012e4348ce1050e0b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:27:47</sys_created_on>
+            <sys_id>72eedda66f8efe00ad6cd4a21c3ee4c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Accounts Payable" display_value="Accounts Payable" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">5f766d060ffd7a0012e4348ce1050e02</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:28:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:27:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_38</element>
+            <element>mailed_2</element>
             <position>3</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:28:14</sys_created_on>
-            <sys_id>bf766d060ffd7a0012e4348ce1050e0b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:27:47</sys_created_on>
+            <sys_id>f2eedda66f8efe00ad6cd4a21c3ee4c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Accounts Payable" display_value="Accounts Payable" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">5f766d060ffd7a0012e4348ce1050e02</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:28:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:27:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_boolean_39</element>
+            <element>del_2</element>
             <position>4</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:28:14</sys_created_on>
-            <sys_id>33766d060ffd7a0012e4348ce1050e0c</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:27:47</sys_created_on>
+            <sys_id>76eedda66f8efe00ad6cd4a21c3ee4c3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Accounts Payable" display_value="Accounts Payable" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">5f766d060ffd7a0012e4348ce1050e02</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:28:14</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:27:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

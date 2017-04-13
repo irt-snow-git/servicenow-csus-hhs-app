@@ -2,44 +2,44 @@
 <record_update>
     <sys_ui_section caption="Budget" section_id="3735a5060ffd7a0012e4348ce1050ed7" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_23</element>
+            <element>awarded_amount</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:23:56</sys_created_on>
-            <sys_id>248529060ffd7a0012e4348ce1050e2b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>28ad5de66f8efe00ad6cd4a21c3ee4ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Budget" display_value="Budget" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">3735a5060ffd7a0012e4348ce1050ed7</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:23:56</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_24</element>
+            <element>actual_spent_amount</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:23:56</sys_created_on>
-            <sys_id>a48529060ffd7a0012e4348ce1050e2b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>a8ad5de66f8efe00ad6cd4a21c3ee4ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Budget" display_value="Budget" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">3735a5060ffd7a0012e4348ce1050ed7</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:23:56</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_integer_25</element>
+            <element>remaining_amount</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:23:56</sys_created_on>
-            <sys_id>288529060ffd7a0012e4348ce1050e2b</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:22:10</sys_created_on>
+            <sys_id>2cad5de66f8efe00ad6cd4a21c3ee4ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Budget" display_value="Budget" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">3735a5060ffd7a0012e4348ce1050ed7</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:23:56</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:22:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

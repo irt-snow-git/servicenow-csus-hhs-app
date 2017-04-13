@@ -2,184 +2,212 @@
 <record_update>
     <sys_ui_section caption="Funds" section_id="dee465060ffd7a0012e4348ce1050e23" sys_domain="global" table="x_casus_collegehhs_hhs_travel" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_8</element>
+            <element>fund_1</element>
             <position>0</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>d7e465060ffd7a0012e4348ce1050e44</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>2a1ed12a6f8efe00ad6cd4a21c3ee4cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_10</element>
+            <element>fund_spec_1</element>
             <position>1</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>5be465060ffd7a0012e4348ce1050e44</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>aa1ed12a6f8efe00ad6cd4a21c3ee4cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_price_19</element>
+            <element>fund_amount_1</element>
             <position>2</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>dbe465060ffd7a0012e4348ce1050e44</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>2e1ed12a6f8efe00ad6cd4a21c3ee4cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_12</element>
+            <element>block_break_1</element>
             <position>3</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>5fe465060ffd7a0012e4348ce1050e44</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>ae1ed12a6f8efe00ad6cd4a21c3ee4cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_13</element>
+            <element>fund_2</element>
             <position>4</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>dfe465060ffd7a0012e4348ce1050e44</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>221ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_price_21</element>
+            <element>fund_spec_2</element>
             <position>5</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>53e465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>a21ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fund_amount_2</element>
+            <position>6</position>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>261ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>d3e465060ffd7a0012e4348ce1050e45</sys_id>
+            <position>7</position>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>a61ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_9</element>
-            <position>7</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>57e465060ffd7a0012e4348ce1050e45</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_11</element>
+            <element>fund_3</element>
             <position>8</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>d7e465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>2a1ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_price_20</element>
+            <element>fund_spec_3</element>
             <position>9</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>5be465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>aa1ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_14</element>
+            <element>fund_amount_3</element>
             <position>10</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>dbe465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>2e1ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_15</element>
+            <element>block_break_2</element>
             <position>11</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>5fe465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>ae1ed12a6f8efe00ad6cd4a21c3ee4cc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_price_22</element>
+            <element>fund_4</element>
             <position>12</position>
-            <sys_created_by>jahami</sys_created_by>
-            <sys_created_on>2017-03-30 18:21:23</sys_created_on>
-            <sys_id>dfe465060ffd7a0012e4348ce1050e45</sys_id>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>221ed12a6f8efe00ad6cd4a21c3ee4cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 18:21:23</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fund_spec_4</element>
+            <position>13</position>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>a21ed12a6f8efe00ad6cd4a21c3ee4cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fund_amount_4</element>
+            <position>14</position>
+            <sys_created_by>nicholasmyers</sys_created_by>
+            <sys_created_on>2017-04-13 17:24:13</sys_created_on>
+            <sys_id>261ed12a6f8efe00ad6cd4a21c3ee4cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Funds" display_value="Funds" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">dee465060ffd7a0012e4348ce1050e23</sys_ui_section>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 17:24:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
