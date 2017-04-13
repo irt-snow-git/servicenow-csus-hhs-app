@@ -5,13 +5,13 @@
             <element>tej_form</element>
             <position>0</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>9e6e952a6f8efe00ad6cd4a21c3ee41f</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>13f852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>tec</element>
             <position>1</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>126e952a6f8efe00ad6cd4a21c3ee420</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>93f852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>itej_form</element>
             <position>2</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>926e952a6f8efe00ad6cd4a21c3ee420</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>17f852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>166e952a6f8efe00ad6cd4a21c3ee420</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>97f852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>travel_deliver_method</element>
             <position>4</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>966e952a6f8efe00ad6cd4a21c3ee420</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>1bf852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>denied</element>
             <position>5</position>
             <sys_created_by>nicholasmyers</sys_created_by>
-            <sys_created_on>2017-04-13 17:25:33</sys_created_on>
-            <sys_id>1a6e952a6f8efe00ad6cd4a21c3ee420</sys_id>
+            <sys_created_on>2017-04-13 21:41:31</sys_created_on>
+            <sys_id>9bf852a20f06324012e4348ce1050e71</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Document Type" display_value="Document Type" name="x_casus_collegehhs_hhs_travel" sys_domain="global" view="Default view">ca48f49a0fb4e60012e4348ce1050eec</sys_ui_section>
             <sys_updated_by>nicholasmyers</sys_updated_by>
-            <sys_updated_on>2017-04-13 17:25:33</sys_updated_on>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -96,7 +96,7 @@
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>ca48f49a0fb4e60012e4348ce1050eec</sys_id>
-            <sys_mod_count>3</sys_mod_count>
+            <sys_mod_count>5</sys_mod_count>
             <sys_name>Document Type</sys_name>
             <sys_overrides display_value="">global</sys_overrides>
             <sys_package display_value="College of Health Human Services" source="x_casus_collegehhs">c7252a562ba82e009ecc78cef6da150e</sys_package>
@@ -104,8 +104,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="College of Health Human Services">c7252a562ba82e009ecc78cef6da150e</sys_scope>
             <sys_update_name>sys_ui_section_ca48f49a0fb4e60012e4348ce1050eec</sys_update_name>
-            <sys_updated_by>jahami</sys_updated_by>
-            <sys_updated_on>2017-03-30 16:54:34</sys_updated_on>
+            <sys_updated_by>nicholasmyers</sys_updated_by>
+            <sys_updated_on>2017-04-13 21:41:31</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
