@@ -9,6 +9,7 @@
         <element label="Block break 2" max_length="40" name="block_break_2" type="string"/>
         <element label="Date Emailed" max_length="40" name="date_emailed" type="glide_date"/>
         <element label="Dean Signature" max_length="40" name="dean_sign" type="boolean"/>
+        <element label="Dean Signature Date Stamp" max_length="40" name="dean_signature_date" type="glide_date_time"/>
         <element label="Delivered" max_length="40" name="del_1" type="boolean"/>
         <element label="Delivered" max_length="40" name="del_2" type="boolean"/>
         <element label="Delivered" max_length="40" name="del_3" type="boolean"/>
